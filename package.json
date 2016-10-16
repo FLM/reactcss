@@ -1,6 +1,6 @@
 {
   "name": "reactcss",
-  "version": "1.0.9",
+  "version": "1.0.903",
   "description": "Bringing Classes to Inline Styles",
   "author": "case <case@casesandberg.com>",
   "main": "lib/reactcss.js",
@@ -14,7 +14,14 @@
   ],
   "dependencies": {
     "classnames": "^2.2.0",
-    "lodash": "^4.0.1",
+    "lodash.map": "^4.0.1",
+    "lodash.isstring": "^4.0.1",
+    "lodash.foreach": "^4.0.1",
+    "lodash.throttle": "^4.0.1",
+    "lodash.isobject": "^3.0.2",
+    "lodash.once": "^4.0.1",
+    "lodash.isplainobject": "^4.0.1",
+    "lodash.clonedeep": "^4.0.1",
     "merge": "^1.2.0",
     "object-assign": "^4.1.0"
   },

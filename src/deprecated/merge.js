@@ -1,7 +1,7 @@
 'use strict' /* eslint-disable */
 
 import mrg from 'merge'
-import isObject from 'lodash/isObject'
+import isObject from 'lodash.isobject'
 
 const merge = (toMerge) => {
   // If its an object, lets just return it

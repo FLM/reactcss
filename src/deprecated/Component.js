@@ -2,7 +2,7 @@
 
 import React from 'react'
 import inline from './inline'
-import once from 'lodash/once'
+import once from 'lodash.once'
 
 const warning = once(() => console.warn(`Extending ReactCSS.Component
   is deprecated in ReactCSS 1.0.0`))

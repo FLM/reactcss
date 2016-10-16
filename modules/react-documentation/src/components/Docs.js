@@ -2,8 +2,8 @@
 
 import React from 'react'
 import reactCSS from 'reactcss'
-import map from 'lodash/map'
-import throttle from 'lodash/throttle'
+import map from 'lodash.map'
+import throttle from 'lodash.throttle'
 import markdown from '../helpers/markdown'
 
 import { Grid } from '../../../react-basic-layout'

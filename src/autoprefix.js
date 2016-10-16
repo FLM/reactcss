@@ -1,6 +1,6 @@
 'use strict'
 
-import map from 'lodash/map'
+import map from 'lodash.map'
 import objectAssign from 'object-assign'
 
 const transforms = {

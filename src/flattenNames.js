@@ -1,8 +1,8 @@
 'use strict'
 
-import map from 'lodash/map'
-import isPlainObject from 'lodash/isPlainObject'
-import isString from 'lodash/isString'
+import map from 'lodash.map'
+import isPlainObject from 'lodash.isplainobject'
+import isString from 'lodash.isstring'
 
 export const flattenNames = (things) => {
   const names = []

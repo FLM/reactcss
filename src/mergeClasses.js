@@ -1,7 +1,7 @@
 'use strict'
 
-import map from 'lodash/map'
-import cloneDeep from 'lodash/cloneDeep'
+import map from 'lodash.map'
+import cloneDeep from 'lodash.clonedeep'
 import objectAssign from 'object-assign';
 
 export const mergeClasses = (classes, activeNames = []) => {

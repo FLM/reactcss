@@ -2,7 +2,7 @@
 
 React = require('react')
 css = require('reactcss')
-isString = require('lodash/isString')
+isString = require('lodash.isstring')
 
 Tab = require('./Tab')
 Link = require('./Link')

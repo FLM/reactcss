@@ -1,6 +1,6 @@
 'use strict' /* eslint-disable */
 
-import isObject from 'lodash/isObject'
+import isObject from 'lodash.isobject'
 import checkClassStructure from './check-class-structure'
 import combine from './combine'
 

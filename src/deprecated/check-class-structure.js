@@ -1,7 +1,7 @@
 /* eslint-disable */
 
-import map from 'lodash/map'
-import isObject from 'lodash/isObject'
+import map from 'lodash.map'
+import isObject from 'lodash.isobject'
 
 export const checkClassStructure = (classes) => {
   map(classes, (elements, className) => {
